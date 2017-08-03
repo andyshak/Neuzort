@@ -1,0 +1,95 @@
+@media only screen and (max-width : 320px) {
+
+}
+@media only screen and (max-width : 480px) {
+
+}
+@media only screen and (max-width : 768px) {
+  header {
+      min-height: auto;
+  }
+.logo{
+  float: right;
+}
+.left{
+  margin-top: 45px;
+}
+.get-app{
+	padding: 10px 25px;
+}
+.iphone-bar {
+       height: 465px;
+    width: 70%;
+    margin: 130px auto 50px;
+    position: relative;
+    background-size: 100% auto;
+}
+
+.download-btn{
+    padding: 10px 20px;
+    display: block;
+    font-size: 13px;
+    margin: 15px auto;
+    width: 160px;
+}
+
+.download-btn i {
+    font-size: 15px;
+}
+.btn {
+    padding: 20px 0;
+}
+.title {
+    padding-top: 70px;
+}
+.block-spec {
+    margin-top: 50px;
+}
+.static {
+    background-size: auto 100%;
+	padding-top: 30px;
+}
+.numbers {
+    font-size: 40px;
+}
+.promo {
+	min-height: auto;
+	padding-bottom: 20%;
+}
+.get-app-bt {
+    padding-left: 135px;
+    width: 100%;
+    margin: 0 auto;
+    background-size: 100px auto;
+}
+.social-icon li {
+	font-size: 15px;
+    margin: 20px 5px 20px 0;
+}
+footer .logo{
+	float: none;
+	font-size: 25px;
+}
+footer .logo img{
+	  height: 30px;
+}
+}
+
+@media only screen and (max-width : 992px) {
+  .filtr-block {
+      margin-right: 5px;
+    }
+  .filtr-block img{
+    width: 100%;
+  }
+  .filtr-block .example_text {
+    padding: 5px;
+    font-size: 14px;
+  }
+  .promo {
+      min-height: 600px;
+}
+}
+@media only screen and (max-width : 1200px) {
+
+}
